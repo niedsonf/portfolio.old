@@ -57314,7 +57314,7 @@ $S:22}
 A.p0.prototype={
 ga5(a){return this.a}}
 A.CO.prototype={
-H(a,b){return A.kK(A.b([A.oq(new A.p2(null),1),A.oq(A.a9E("/skills",$.a8y().ax,B.eK,A.abb(),A.aha(),null,!1,null),8)],t.D),B.O,B.f5,B.P)}}
+H(a,b){return A.kK(A.b([A.oq(new A.p2(null),1),A.oq(A.a9E("/home",$.a8y().ax,B.eK,A.abb(),A.aha(),null,!1,null),8)],t.D),B.O,B.f5,B.P)}}
 A.a84.prototype={
 $0(){var s,r,q=this.a.gbd(),p=q.e
 if(p.gbd()!=null){s=q.w
@@ -57369,7 +57369,7 @@ j=J.f(p.gn(p),j)}else j=!0
 return A.a8K(A.kK(A.b([s,q,r,A.a8K(m,B.aO,m,n,j?k:0,m,6)],o),B.O,B.f6,B.P),m,new A.ch(i,m,m,m,m,m,B.S),l,k,m,m)},
 $S:366}
 A.FM.prototype={
-H(a,b){return A.a9E("/skills",$.a8y().ax,B.eK,A.abb(),A.aha(),null,!1,null)}}
+H(a,b){return A.a9E("/home",$.a8y().ax,B.eK,A.abb(),A.aha(),null,!1,null)}}
 A.jA.prototype={
 gl(a){return this.b},
 j(a,b){if(b>=this.b)throw A.c(A.bD(b,this,null,null,null))

@@ -5,6 +5,6 @@ import 'package:portfolio/routing/routes.dart';
 
 Navigator localNavigator() => Navigator(
       key: navigationController.navigationKey,
-      initialRoute: SkillsPageRoute,
+      initialRoute: HomePageRoute,
       onGenerateRoute: generateRoute,
     );
